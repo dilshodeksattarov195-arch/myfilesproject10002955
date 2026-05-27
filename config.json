@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "userpync",
+        "uuid": 29248590,
+        "checksum": "6gss5p"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
